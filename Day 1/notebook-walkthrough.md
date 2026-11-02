@@ -1,8 +1,6 @@
-# Notebooks
+# Day 1 Notebook — Walkthrough of Every Cell
 
-This folder contains the **Jupyter notebooks** we use during the sessions.
-
-**Right now, there is one notebook here: [`day1_bootcamp_ml_basics.ipynb`](day1_bootcamp_ml_basics.ipynb)** — a Python crash course for machine learning. Below you'll find (1) what a Jupyter notebook *is*, (2) three ways to run this one, including **uploading it to Google Colab or Kaggle with zero installation**, and (3) an explanation of **every line in the notebook**.
+This page explains **every line** of [`day1_bootcamp_ml_basics.ipynb`](day1_bootcamp_ml_basics.ipynb) (the notebook in this same folder) — a Python crash course for machine learning. Below you'll find (1) what a Jupyter notebook *is*, (2) three ways to run it, including **uploading it to Google Colab or Kaggle with zero installation**, and (3) the full line-by-line explanation.
 
 ---
 
@@ -36,7 +34,7 @@ The notebook only needs Python with these libraries installed: `numpy`, `pandas`
 
 ### 💻 Way 3 — Run it on your own computer
 
-Requires the **Day 1 setup** ([`Day 1/README.md`](../Day%201/README.md)) — Miniconda + the `bootcamp` environment:
+Requires the **setup** from this folder ([`setup-and-tools.md`](setup-and-tools.md)) — Miniconda + the `bootcamp` environment:
 
 1. Download this repo's files (git clone, or download the folder).
 2. Open the Anaconda Prompt / terminal and run:
@@ -46,7 +44,7 @@ Requires the **Day 1 setup** ([`Day 1/README.md`](../Day%201/README.md)) — Min
    jupyter lab
    ```
 
-3. Your browser opens with a file listing — navigate to `notebooks/` and click `day1_bootcamp_ml_basics.ipynb`.
+3. Your browser opens with a file listing — open the `Day 1/` folder and click `day1_bootcamp_ml_basics.ipynb`.
 
 > ⚠️ **One rule for any notebook: run the cells top to bottom, in order.** Code in a later cell often depends on earlier cells (e.g. the ML section uses NumPy functions defined earlier in your session). If you get a "not defined" error, run everything from the top (Colab: *Runtime → Run all*; Jupyter: *Run → Run All Cells*).
 

@@ -1,13 +1,16 @@
-# AI Bootcamp Materials
+# AI Bootcamp Materials — a 2-Day, Self-Paced Path
 
-This repository holds everything we use in the **AI track's Bootcamp**:
+This repo is a **2-day self-paced bootcamp** for the **AI track's Bootcamp**: no live classes — you work through it on your own schedule, at your own speed. Everything is explained for complete beginners, and every notebook runs in the browser (Google Colab or Kaggle) with **nothing to install** if you don't want to install anything.
 
-| Folder | What's inside |
-|---|---|
-| [`Day 1/`](Day%201/) | The tools you need (Python, conda, Jupyter, Kaggle, Colab) and why we use them |
-| [`notebooks/`](notebooks/) | The Jupyter notebooks we write code in during the sessions, with a full walkthrough |
+| Order | Folder | What you'll learn | Time |
+|---|---|---|---|
+| 1️⃣ | [`Day 1/`](Day%201/) | **Python for ML basics** — set up your tools, then Python, NumPy, pandas, matplotlib, and your first trained model | ≈3–4 h |
+| 2️⃣ | [`Day 2/`](Day%202/) | **Basic model building + the things to know** — real CSV data, preprocessing without leakage, several models, honest evaluation, overfitting, cross-validation, pipelines | ≈3–4 h |
+| 3️⃣ | [`Projects/`](Projects/) | **Your assessment** — build and submit your own end-to-end ML project. This is how the club checks what you learned | ≈1 week |
 
-If you have **never used Git**, the short guide below covers the only commands you need for this bootcamp — nothing more. Read it once and you're set.
+**How to work through it:** open each day's `README.md`, follow its steps, and run every notebook cell yourself. Each day ends with a "Done when ✅" checklist so you know you're ready to move on. Day 2 flows straight into the project brief — that project is required.
+
+If you have **never used Git** (how to download this repo and send updates back), the short guide below covers the only commands you need — nothing more. Read it once and you're set.
 
 ---
 

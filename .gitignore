@@ -1,0 +1,14 @@
+# data & model artifacts notebooks create when run
+*.csv
+*.joblib
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# os noise
+Thumbs.db
+.DS_Store
