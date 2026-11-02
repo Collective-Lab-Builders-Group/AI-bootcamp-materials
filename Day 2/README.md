@@ -18,7 +18,7 @@
 ## The plan
 
 1. **(≈2–2.5 h)** Work through [`model_building_basics.ipynb`](model_building_basics.ipynb) **top to bottom**. Every cell is written to teach itself: read the text cell, run the code cell, then tweak a number and re-run to see what changes. The notebook even generates and saves its own CSV file (`customers.csv`), so you practice the real Kaggle flow of reading data from a file.
-2. **(≈45–60 min)** Do the **exercises** at the end of the notebook. Exercise 5 — a full run-through on the real Titanic dataset — is the dress rehearsal for your assessment project.
+2. **(≈45–60 min)** Do the **exercises** at the end of the notebook. Exercise 5 — a full run-through on the real Titanic dataset — is the best practice there is.
 
 ## Done when ✅
 
@@ -27,10 +27,6 @@
 - [ ] You can name a metric for when accuracy lies — and why
 - [ ] You can point at the train↔test gap in the depth sweep and say which tree overfit
 - [ ] Exercises 1–3 are attempted
-
-## After today: your assessment project
-
-The two days of learning end here — now the club wants proof you can do it on your own. Head to **[`../Projects/README.md`](../Projects/README.md)** for the project brief (what to build, rules, ideas, and how you'll be graded). Suggested deadline: one week from today — your club lead will confirm the exact date.
 
 ## Resources
 

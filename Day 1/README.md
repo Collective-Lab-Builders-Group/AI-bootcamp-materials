@@ -45,5 +45,3 @@ Do the **Exercises** at the bottom of the notebook. They only need things the no
 ## Next
 
 Tomorrow — **Day 2: basic model building done properly** on messier, real-world data, plus the habits that keep your results honest (preprocessing, overfitting, the right metrics, cross-validation). See **[`../Day 2/`](../Day%202/)**.
-
-After Day 2 you'll build your **own project** — that project is the club's assessment: [`../Projects/`](../Projects/).

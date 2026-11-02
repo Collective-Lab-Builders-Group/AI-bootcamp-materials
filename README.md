@@ -6,9 +6,8 @@ This repo is a **2-day self-paced bootcamp** for the **AI track's Bootcamp**: no
 |---|---|---|---|
 | 1️⃣ | [`Day 1/`](Day%201/) | **Python for ML basics** — set up your tools, then Python, NumPy, pandas, matplotlib, and your first trained model | ≈3–4 h |
 | 2️⃣ | [`Day 2/`](Day%202/) | **Basic model building + the things to know** — real CSV data, preprocessing without leakage, several models, honest evaluation, overfitting, cross-validation, pipelines | ≈3–4 h |
-| 3️⃣ | [`Projects/`](Projects/) | **Your assessment** — build and submit your own end-to-end ML project. This is how the club checks what you learned | ≈1 week |
 
-**How to work through it:** open each day's `README.md`, follow its steps, and run every notebook cell yourself. Each day ends with a "Done when ✅" checklist so you know you're ready to move on. Day 2 flows straight into the project brief — that project is required.
+**How to work through it:** open each day's `README.md`, follow its steps, and run every notebook cell yourself. Each day ends with a "Done when ✅" checklist so you know you're ready to move on.
 
 If you have **never used Git** (how to download this repo and send updates back), the short guide below covers the only commands you need — nothing more. Read it once and you're set.
 
